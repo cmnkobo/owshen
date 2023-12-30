@@ -38,7 +38,7 @@ The sender will generate a random scalar $r$, and will broadcast the point $r \t
 
 ### Owshen's merkle-tree structure :evergreen_tree: 
 
-As previosuly said, a Sparse-Merkle-Tree is being maintained in Owshen platform's smart-contract, where each leaf is:
+As previously said, a Sparse-Merkle-Tree is being maintained in Owshen platform's smart-contract, where each leaf is:
 
 $hash({pub}_x,{pub}_y,token,amount)$
 
